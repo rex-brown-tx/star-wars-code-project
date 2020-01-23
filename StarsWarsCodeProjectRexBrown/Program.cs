@@ -1,13 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-using System.Net;
-using System.IO;
-
-using Newtonsoft.Json;
 using StarsWarsCodeProjectRexBrown.models;
 
 namespace StarsWarsCodeProjectRexBrown
@@ -22,11 +14,10 @@ namespace StarsWarsCodeProjectRexBrown
             if (!int.TryParse(count, out intCount))
                 intCount = 0;
 
-            var result = new starship().GetPilotsByPassengerCount(intCount);
+            var result = new StarWars().GetStarshipsWithPilots(intCount);
             foreach(var comboString in result)
-            {
                 Console.WriteLine(comboString);
-            }
+
             Console.Read();
         }
 

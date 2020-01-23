@@ -47,9 +47,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="models\starship.cs" />
+    <Compile Include="models\Pilot.cs" />
+    <Compile Include="models\ResultsContainer.cs" />
+    <Compile Include="models\Starship.cs" />
+    <Compile Include="StarWars.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SWAPI.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

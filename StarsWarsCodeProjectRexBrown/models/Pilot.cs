@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace StarsWarsCodeProjectRexBrown.models
 {
-    class Starship
+    public class Pilot
     {
         public string name { get; set; }
-        public int passengers { get; set; }
-        public List<string> pilots { get; set; }
+        public string starshipName { get; set; }
 
     }
 }

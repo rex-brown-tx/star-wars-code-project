@@ -1,0 +1,8 @@
+C:\Users\Rex\Documents\Visual Studio 2015\Projects\star-wars-code-project\StarsWarsCodeProjectRexBrown\bin\Debug\StarsWarsCodeProjectRexBrown.exe.config
+C:\Users\Rex\Documents\Visual Studio 2015\Projects\star-wars-code-project\StarsWarsCodeProjectRexBrown\bin\Debug\StarsWarsCodeProjectRexBrown.exe
+C:\Users\Rex\Documents\Visual Studio 2015\Projects\star-wars-code-project\StarsWarsCodeProjectRexBrown\bin\Debug\StarsWarsCodeProjectRexBrown.pdb
+C:\Users\Rex\Documents\Visual Studio 2015\Projects\star-wars-code-project\StarsWarsCodeProjectRexBrown\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rex\Documents\Visual Studio 2015\Projects\star-wars-code-project\StarsWarsCodeProjectRexBrown\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rex\Documents\Visual Studio 2015\Projects\star-wars-code-project\StarsWarsCodeProjectRexBrown\obj\Debug\StarsWarsCodeProjectRexBrown.csprojResolveAssemblyReference.cache
+C:\Users\Rex\Documents\Visual Studio 2015\Projects\star-wars-code-project\StarsWarsCodeProjectRexBrown\obj\Debug\StarsWarsCodeProjectRexBrown.exe
+C:\Users\Rex\Documents\Visual Studio 2015\Projects\star-wars-code-project\StarsWarsCodeProjectRexBrown\obj\Debug\StarsWarsCodeProjectRexBrown.pdb
